@@ -21,3 +21,6 @@ This repositry contains code from my BSc senior design project, "AI approach for
   outcomes of the study offered an AI-based, accurate, faster, and non-invasive method of
   detection. With this design, the priority was improving patient survival rates.
 </p>
+<p align="center">
+  <img width="950" height="562" alt="image" src="https://github.com/user-attachments/assets/e0c0aede-a780-487c-826a-5ec5c6ec1c29" />
+</p>
