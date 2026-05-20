@@ -1,4 +1,4 @@
-This repositry contains code from my BSc senior design project, "AI approach for diagnosing graft infections in PET images".
+<b> This repositry contains code from my BSc senior design project, "AI approach for diagnosing graft infections in PET images". </b>
 
 <b> Abstract </b>
 
